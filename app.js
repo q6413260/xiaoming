@@ -53,6 +53,7 @@ app.configure('production', function () {
 
 routes(app);
 
+//你大爷
 app.listen(app.get('port'), function () {
   console.log("Express server listening on port " + app.get('port'));
 });
