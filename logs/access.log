@@ -40,3 +40,11 @@
 ::1 - GET /libs/jquery/jquery.min.js HTTP/1.1 404 726 - 1.253 ms
 ::1 - GET /libs/jquery/jquery.min.js HTTP/1.1 404 726 - 1.485 ms
 ::1 - GET /page/about HTTP/1.1 404 726 - 3.650 ms
+::1 - GET /page/about HTTP/1.1 404 726 - 6.234 ms
+::1 - GET /page/dream-list HTTP/1.1 404 726 - 3.025 ms
+::1 - GET /page/links HTTP/1.1 404 726 - 2.388 ms
+::1 - GET /page/about HTTP/1.1 404 726 - 2.699 ms
+::1 - POST /comment HTTP/1.1 302 80 - 4.863 ms
+::1 - GET /fuck-spam-comment HTTP/1.1 404 726 - 0.988 ms
+::1 - POST /comment HTTP/1.1 302 80 - 0.969 ms
+::1 - GET /fuck-spam-comment HTTP/1.1 404 726 - 5.290 ms
